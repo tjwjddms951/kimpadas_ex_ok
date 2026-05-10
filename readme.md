@@ -1,3 +1,9 @@
+## 📚 기초 파이썬 강의 자료
+
+
+
+---
+
 ## 📚 판다스 강의 자료
 
 🔗 [깃허브 링크](https://github.com/KimPandas/ss/blob/main/ipynb)
