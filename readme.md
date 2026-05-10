@@ -2,8 +2,8 @@
 
 🔗 [깃허브 링크](https://github.com/KimPandas/ss/blob/main/ipynb)
 
-* **[OT. 판다스로 데이터 다루기 체험](https://github.com/KimPandas/ss/blob/main/ipynb/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
-    > **Note:** Chapter 1~2는 판다스 소개와 기초 파이썬 과정입니다.
+* **[Chapter 1. 판다스로 데이터 다루기 체험](https://github.com/KimPandas/ss/blob/main/ipynb/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/01_%ED%8C%90%EB%8B%A4%EC%8A%A4%EB%A1%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EC%B2%B4%ED%97%98(%EC%97%B0%EC%8A%B5).ipynb)
+    > **Note:** Chapter 2는 기초 파이썬 과정입니다.
 
 * **[Chapter 3. 데이터 프레임과 시리즈](https://github.com/KimPandas/ss/blob/main/ipynb/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%84%EB%A0%88%EC%9E%84.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/03_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%84%EB%A0%88%EC%9E%84(%EC%97%B0%EC%8A%B5).ipynb)
 * **[Chapter 4. 인덱스](https://github.com/KimPandas/ss/blob/main/ipynb/04_%EC%9D%B8%EB%8D%B1%EC%8A%A4.ipynb)** 👉 [연습](https://colab.research.google.com/github/KimPandas/ss/blob/main/ex/04_%EC%9D%B8%EB%8D%B1%EC%8A%A4(%EC%97%B0%EC%8A%B5).ipynb)
