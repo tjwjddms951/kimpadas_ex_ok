@@ -1,3 +1,11 @@
+# AI와 Python을 결합한 실무 데이터 분석
+
+대상: OK금융그룹
+
+강사: 김판다 강사
+
+---
+
 ## 📚 기초 파이썬 강의 자료
 
 🔗 [깃허브 링크](https://github.com/KimPandas/python/blob/main/ipynb/0_%EC%A0%84%EC%B2%B4_%EB%82%B4%EC%9A%A9.ipynb)
