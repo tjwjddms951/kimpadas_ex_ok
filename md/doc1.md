@@ -1,14 +1,19 @@
 ## ✅ **공식 문서 찾는 법**
 
-<img src=https://i.postimg.cc/qvc876vr/image.png, width=600>
 
 * 구글에서 **pandas 함수명**을 입력하면 가장 먼저 검색됩니다.
+<img src=https://i.postimg.cc/qvc876vr/image.png, width=600>
+
+<br>
+ 
 * 책에서 함수의 페이지를 찾으면 통상적으로 공식 문서의 페이지가 나옵니다.
 * 강의 자료에서 **판다스 함수명**을 입력하면 한글 공식 문서를 확인할 수 있습니다.
 
-<img src=https://i.postimg.cc/43NBkQbV/image.png, width=600>
+<br>
 
 * 구글 코랩(Google Colab)에서 함수를 사용 후 `shift + tab`을 입력하면 공식 문서를 불러옵니다.
+<img src=https://i.postimg.cc/43NBkQbV/image.png, width=600>
+
 
 ---
 
