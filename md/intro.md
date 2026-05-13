@@ -14,7 +14,7 @@
 <img src=https://i.postimg.cc/nrhYDFMf/deiteo-bunseog-modyul-jonglyu.jpg, width=600>
 
 | 라이브러리 | 주요 역할 |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **NumPy** | 고차원 행렬 데이터를 처리 |
 | **Pandas** | 표 형태의 데이터 관리 및 조작 |
 | **Matplotlib** | 가장 기본적인 데이터 시각화 라이브러리 |
