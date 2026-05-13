@@ -28,9 +28,7 @@ df = pd.read_csv(url)
 
 # 문제 해결 절차
 
----
-
-### **1단계: 문제 정의 (MRE 구성)**
+## **1단계: 문제 정의 (MRE 구성)**
 
 
 학습자는 주어진 이미지의 복잡한 데이터를 모두 다루기 전, 문제의 핵심을 관통하는 **최소 재현 예제(MRE: minimal and reproducible example)**를 정의합니다. 이때 주어진 MRE로 바라는 결과인 output까지 테이블로 생성합니다.
@@ -45,3 +43,45 @@ import pandas as pd
 
 data = [['a1', 'A/B', 'b1'], ['a2', 'B', 'b2'], ['a3', 'A/B/C', 'b3']]
 df = pd.DataFrame(data, columns=['col1', 'col2', 'col3'])
+```
+
+## **2단계: 솔루션 탐색 (AI 활용)**
+
+작성한 MRE를 바탕으로 AI에게 효율적인 전처리 방안을 질문하고 답변을 얻습니다.
+
+```python
+# AI의 답변
+df_output = pd.concat(
+    [df['col1'], df['col2'].str.get_dummies(sep='/'), df['col3']], 
+    axis=1
+)
+```
+
+## **3단계: 작동 확인 (Code Execution)**
+
+AI가 제공한 코드를 실제 의도대로 작동하는지 실제 실행하여 확인합니다.
+
+AI가 제공한 코드의 작동이 확인되면, 나의 상황에 맞추어 변형해 문제를 해결합니다. 이 과정에서 나의 상황에 맞는 코드를 다시 AI에게 요구해도 좋습니다.
+
+* **조정 답변**
+
+```python
+# 상황에 맞게 답변 조정
+df_output = pd.concat(
+    [df.loc[:, :'연봉'], df['언어'].str.get_dummies(sep='/'), df.loc[:, '전공':]], 
+    axis=1
+)
+
+```
+
+## **4단계: 내용 이해 (Documentation)**
+
+사용된 주요 함수들의 동작 원리를 공식 문서를 통해 학습하고 내재화합니다.
+
+* **Pandas**의 `str.get_dummies`와 `pd.concat`의 공식 문서를 확인합니다.
+* 필요하다면 타자로 공식 문서 한글 요약본을 직접 쳐보는 것도 큰 도움이 됩니다.
+
+---
+
+> 💡 **MRE(예시)를 잘 만드는 것이 좋은 질문의 시작이며, 공식 문서를 읽는 것이 실력의 완성입니다.**
+
