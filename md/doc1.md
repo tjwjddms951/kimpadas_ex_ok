@@ -47,13 +47,10 @@ df.pivot_table(values=None, index=None, columns=None, aggfunc='mean')
 * **`columns`**: 열로 구분할 그룹을 나누는 기준 열을 지정합니다. (예: 성별 구분)
 * **`aggfunc`**: 그룹의 차원을 축소할 집계 함수를 지정합니다. 기본값은 `'mean'`으로 그룹의 평균을 구해 차원을 축소합니다.
 
+---
+
 ### **3. 구글 코랩 등의 IDE에서 함수를 사용 후 "shift + tab"을 입력**
 
 <img src=https://i.postimg.cc/2ym1M2hP/image.png, width=600>
 
 
-
----
-
-### **3. 구글 코랩 단축키 활용**
-* 구글 코랩에서 함수 뒤에 커서를 두고 **`shift + tab`**을 입력하면 팝업 형태로 공식 문서를 즉시 확인할 수 있습니다.
