@@ -35,9 +35,9 @@
 
 ## 📊 문제 해결 방법 (with AI)
 
-* [문제](https://github.com/KimPandas/ok/blob/main/md/question.md)
+* [문제 확인](https://github.com/KimPandas/ok/blob/main/md/question.md)
 * [해결 방법](https://github.com/KimPandas/ok/blob/main/md/sol1.md)
-
+* [공식 문서 활용 방법](https://github.com/KimPandas/ok/blob/main/md/doc1.md)
 
 
 ---
