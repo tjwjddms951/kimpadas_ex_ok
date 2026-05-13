@@ -1,10 +1,13 @@
-
-
 ## 📚 기초 파이썬 강의 자료
 
 🔗 [깃허브 링크](https://github.com/KimPandas/python/blob/main/ipynb/0_%EC%A0%84%EC%B2%B4_%EB%82%B4%EC%9A%A9.ipynb)
 
 ---
+
+## 📚 데이터 분석 입문
+
+🔗 [데이터 분석 입문](https://github.com/KimPandas/ok/blob/main/md/intro.md)
+
 
 ## 📚 판다스 강의 자료
 
